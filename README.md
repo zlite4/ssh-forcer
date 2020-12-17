@@ -1,6 +1,8 @@
 # ssh-forcer
 Brute Force ssh in python3
 
+# Only use for security testing not for nefarious uses ;)
+
 
 Example use# python3 ssh-forcer.py -i [ipaddress] -u root -P nerdlist.txt -t 4 -T 5
 
